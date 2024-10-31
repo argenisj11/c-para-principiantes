@@ -1,0 +1,15 @@
+C:\Users\argenis javier\source\repos\quiz game\quiz game\obj\Debug\net6.0\quiz game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argenis javier\source\repos\quiz game\quiz game\obj\Debug\net6.0\quiz game.AssemblyInfoInputs.cache
+C:\Users\argenis javier\source\repos\quiz game\quiz game\obj\Debug\net6.0\quiz game.AssemblyInfo.cs
+C:\Users\argenis javier\source\repos\quiz game\quiz game\obj\Debug\net6.0\quiz game.csproj.CoreCompileInputs.cache
+C:\Users\argenis javier\source\repos\quiz game\quiz game\obj\Debug\net6.0\quiz game.sourcelink.json
+C:\Users\argenis javier\source\repos\quiz game\quiz game\bin\Debug\net6.0\quiz game.exe
+C:\Users\argenis javier\source\repos\quiz game\quiz game\bin\Debug\net6.0\quiz game.deps.json
+C:\Users\argenis javier\source\repos\quiz game\quiz game\bin\Debug\net6.0\quiz game.runtimeconfig.json
+C:\Users\argenis javier\source\repos\quiz game\quiz game\bin\Debug\net6.0\quiz game.dll
+C:\Users\argenis javier\source\repos\quiz game\quiz game\bin\Debug\net6.0\quiz game.pdb
+C:\Users\argenis javier\source\repos\quiz game\quiz game\obj\Debug\net6.0\quiz game.dll
+C:\Users\argenis javier\source\repos\quiz game\quiz game\obj\Debug\net6.0\refint\quiz game.dll
+C:\Users\argenis javier\source\repos\quiz game\quiz game\obj\Debug\net6.0\quiz game.pdb
+C:\Users\argenis javier\source\repos\quiz game\quiz game\obj\Debug\net6.0\quiz game.genruntimeconfig.cache
+C:\Users\argenis javier\source\repos\quiz game\quiz game\obj\Debug\net6.0\ref\quiz game.dll

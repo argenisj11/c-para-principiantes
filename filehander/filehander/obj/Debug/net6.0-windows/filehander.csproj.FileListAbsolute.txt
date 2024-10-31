@@ -1,0 +1,17 @@
+C:\Users\argenis javier\source\repos\filehander\filehander\bin\Debug\net6.0-windows\filehander.exe
+C:\Users\argenis javier\source\repos\filehander\filehander\bin\Debug\net6.0-windows\filehander.deps.json
+C:\Users\argenis javier\source\repos\filehander\filehander\bin\Debug\net6.0-windows\filehander.runtimeconfig.json
+C:\Users\argenis javier\source\repos\filehander\filehander\bin\Debug\net6.0-windows\filehander.dll
+C:\Users\argenis javier\source\repos\filehander\filehander\bin\Debug\net6.0-windows\filehander.pdb
+C:\Users\argenis javier\source\repos\filehander\filehander\obj\Debug\net6.0-windows\filehander.Form1.resources
+C:\Users\argenis javier\source\repos\filehander\filehander\obj\Debug\net6.0-windows\filehander.csproj.GenerateResource.cache
+C:\Users\argenis javier\source\repos\filehander\filehander\obj\Debug\net6.0-windows\filehander.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argenis javier\source\repos\filehander\filehander\obj\Debug\net6.0-windows\filehander.AssemblyInfoInputs.cache
+C:\Users\argenis javier\source\repos\filehander\filehander\obj\Debug\net6.0-windows\filehander.AssemblyInfo.cs
+C:\Users\argenis javier\source\repos\filehander\filehander\obj\Debug\net6.0-windows\filehander.csproj.CoreCompileInputs.cache
+C:\Users\argenis javier\source\repos\filehander\filehander\obj\Debug\net6.0-windows\filehander.sourcelink.json
+C:\Users\argenis javier\source\repos\filehander\filehander\obj\Debug\net6.0-windows\filehander.dll
+C:\Users\argenis javier\source\repos\filehander\filehander\obj\Debug\net6.0-windows\refint\filehander.dll
+C:\Users\argenis javier\source\repos\filehander\filehander\obj\Debug\net6.0-windows\filehander.pdb
+C:\Users\argenis javier\source\repos\filehander\filehander\obj\Debug\net6.0-windows\filehander.genruntimeconfig.cache
+C:\Users\argenis javier\source\repos\filehander\filehander\obj\Debug\net6.0-windows\ref\filehander.dll

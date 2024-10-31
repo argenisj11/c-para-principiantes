@@ -1,0 +1,15 @@
+C:\Users\argenis javier\source\repos\Guess The Number\Guess The Number\bin\Debug\net6.0\Guess The Number.exe
+C:\Users\argenis javier\source\repos\Guess The Number\Guess The Number\bin\Debug\net6.0\Guess The Number.deps.json
+C:\Users\argenis javier\source\repos\Guess The Number\Guess The Number\bin\Debug\net6.0\Guess The Number.runtimeconfig.json
+C:\Users\argenis javier\source\repos\Guess The Number\Guess The Number\bin\Debug\net6.0\Guess The Number.dll
+C:\Users\argenis javier\source\repos\Guess The Number\Guess The Number\bin\Debug\net6.0\Guess The Number.pdb
+C:\Users\argenis javier\source\repos\Guess The Number\Guess The Number\obj\Debug\net6.0\Guess The Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argenis javier\source\repos\Guess The Number\Guess The Number\obj\Debug\net6.0\Guess The Number.AssemblyInfoInputs.cache
+C:\Users\argenis javier\source\repos\Guess The Number\Guess The Number\obj\Debug\net6.0\Guess The Number.AssemblyInfo.cs
+C:\Users\argenis javier\source\repos\Guess The Number\Guess The Number\obj\Debug\net6.0\Guess The Number.csproj.CoreCompileInputs.cache
+C:\Users\argenis javier\source\repos\Guess The Number\Guess The Number\obj\Debug\net6.0\Guess The Number.sourcelink.json
+C:\Users\argenis javier\source\repos\Guess The Number\Guess The Number\obj\Debug\net6.0\Guess The Number.dll
+C:\Users\argenis javier\source\repos\Guess The Number\Guess The Number\obj\Debug\net6.0\refint\Guess The Number.dll
+C:\Users\argenis javier\source\repos\Guess The Number\Guess The Number\obj\Debug\net6.0\Guess The Number.pdb
+C:\Users\argenis javier\source\repos\Guess The Number\Guess The Number\obj\Debug\net6.0\Guess The Number.genruntimeconfig.cache
+C:\Users\argenis javier\source\repos\Guess The Number\Guess The Number\obj\Debug\net6.0\ref\Guess The Number.dll

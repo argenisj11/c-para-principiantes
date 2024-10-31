@@ -1,0 +1,17 @@
+C:\Users\argenis javier\source\repos\MathFlashCard\MathFlashCard\bin\Debug\net6.0-windows\MathFlashCard.exe
+C:\Users\argenis javier\source\repos\MathFlashCard\MathFlashCard\bin\Debug\net6.0-windows\MathFlashCard.deps.json
+C:\Users\argenis javier\source\repos\MathFlashCard\MathFlashCard\bin\Debug\net6.0-windows\MathFlashCard.runtimeconfig.json
+C:\Users\argenis javier\source\repos\MathFlashCard\MathFlashCard\bin\Debug\net6.0-windows\MathFlashCard.dll
+C:\Users\argenis javier\source\repos\MathFlashCard\MathFlashCard\bin\Debug\net6.0-windows\MathFlashCard.pdb
+C:\Users\argenis javier\source\repos\MathFlashCard\MathFlashCard\obj\Debug\net6.0-windows\MathFlashCard.Form1.resources
+C:\Users\argenis javier\source\repos\MathFlashCard\MathFlashCard\obj\Debug\net6.0-windows\MathFlashCard.csproj.GenerateResource.cache
+C:\Users\argenis javier\source\repos\MathFlashCard\MathFlashCard\obj\Debug\net6.0-windows\MathFlashCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argenis javier\source\repos\MathFlashCard\MathFlashCard\obj\Debug\net6.0-windows\MathFlashCard.AssemblyInfoInputs.cache
+C:\Users\argenis javier\source\repos\MathFlashCard\MathFlashCard\obj\Debug\net6.0-windows\MathFlashCard.AssemblyInfo.cs
+C:\Users\argenis javier\source\repos\MathFlashCard\MathFlashCard\obj\Debug\net6.0-windows\MathFlashCard.csproj.CoreCompileInputs.cache
+C:\Users\argenis javier\source\repos\MathFlashCard\MathFlashCard\obj\Debug\net6.0-windows\MathFlashCard.sourcelink.json
+C:\Users\argenis javier\source\repos\MathFlashCard\MathFlashCard\obj\Debug\net6.0-windows\MathFlashCard.dll
+C:\Users\argenis javier\source\repos\MathFlashCard\MathFlashCard\obj\Debug\net6.0-windows\refint\MathFlashCard.dll
+C:\Users\argenis javier\source\repos\MathFlashCard\MathFlashCard\obj\Debug\net6.0-windows\MathFlashCard.pdb
+C:\Users\argenis javier\source\repos\MathFlashCard\MathFlashCard\obj\Debug\net6.0-windows\MathFlashCard.genruntimeconfig.cache
+C:\Users\argenis javier\source\repos\MathFlashCard\MathFlashCard\obj\Debug\net6.0-windows\ref\MathFlashCard.dll

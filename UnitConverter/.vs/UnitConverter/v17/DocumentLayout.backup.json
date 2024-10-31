@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\argenis javier\\source\\repos\\UnitConverter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF4BFB6-8137-4529-9DDB-F3E181DD685B}|UnitConverter\\UnitConverter.csproj|c:\\users\\argenis javier\\source\\repos\\unitconverter\\unitconverter\\convertedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF4BFB6-8137-4529-9DDB-F3E181DD685B}|UnitConverter\\UnitConverter.csproj|solutionrelative:unitconverter\\convertedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF4BFB6-8137-4529-9DDB-F3E181DD685B}|UnitConverter\\UnitConverter.csproj|c:\\users\\argenis javier\\source\\repos\\unitconverter\\unitconverter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF4BFB6-8137-4529-9DDB-F3E181DD685B}|UnitConverter\\UnitConverter.csproj|solutionrelative:unitconverter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF4BFB6-8137-4529-9DDB-F3E181DD685B}|UnitConverter\\UnitConverter.csproj|c:\\users\\argenis javier\\source\\repos\\unitconverter\\unitconverter\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF4BFB6-8137-4529-9DDB-F3E181DD685B}|UnitConverter\\UnitConverter.csproj|solutionrelative:unitconverter\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF4BFB6-8137-4529-9DDB-F3E181DD685B}|UnitConverter\\UnitConverter.csproj|c:\\users\\argenis javier\\source\\repos\\unitconverter\\unitconverter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDF4BFB6-8137-4529-9DDB-F3E181DD685B}|UnitConverter\\UnitConverter.csproj|solutionrelative:unitconverter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\argenis javier\\source\\repos\\UnitConverter\\UnitConverter\\Form1.cs",
+              "RelativeDocumentMoniker": "UnitConverter\\Form1.cs",
+              "ToolTip": "C:\\Users\\argenis javier\\source\\repos\\UnitConverter\\UnitConverter\\Form1.cs",
+              "RelativeToolTip": "UnitConverter\\Form1.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:01:42.777Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConvertedService.cs",
+              "DocumentMoniker": "C:\\Users\\argenis javier\\source\\repos\\UnitConverter\\UnitConverter\\ConvertedService.cs",
+              "RelativeDocumentMoniker": "UnitConverter\\ConvertedService.cs",
+              "ToolTip": "C:\\Users\\argenis javier\\source\\repos\\UnitConverter\\UnitConverter\\ConvertedService.cs",
+              "RelativeToolTip": "UnitConverter\\ConvertedService.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAAJsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:14:46.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\argenis javier\\source\\repos\\UnitConverter\\UnitConverter\\Enums.cs",
+              "RelativeDocumentMoniker": "UnitConverter\\Enums.cs",
+              "ToolTip": "C:\\Users\\argenis javier\\source\\repos\\UnitConverter\\UnitConverter\\Enums.cs",
+              "RelativeToolTip": "UnitConverter\\Enums.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAArwBUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:56:20.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\argenis javier\\source\\repos\\UnitConverter\\UnitConverter\\Form1.cs",
+              "RelativeDocumentMoniker": "UnitConverter\\Form1.cs",
+              "ToolTip": "C:\\Users\\argenis javier\\source\\repos\\UnitConverter\\UnitConverter\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UnitConverter\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:47:00.905Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

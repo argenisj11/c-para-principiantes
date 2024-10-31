@@ -1,0 +1,17 @@
+C:\Users\argenis javier\source\repos\what's time it's is\what's time it's is\bin\Debug\net6.0-windows\what's time it's is.exe
+C:\Users\argenis javier\source\repos\what's time it's is\what's time it's is\bin\Debug\net6.0-windows\what's time it's is.deps.json
+C:\Users\argenis javier\source\repos\what's time it's is\what's time it's is\bin\Debug\net6.0-windows\what's time it's is.runtimeconfig.json
+C:\Users\argenis javier\source\repos\what's time it's is\what's time it's is\bin\Debug\net6.0-windows\what's time it's is.dll
+C:\Users\argenis javier\source\repos\what's time it's is\what's time it's is\bin\Debug\net6.0-windows\what's time it's is.pdb
+C:\Users\argenis javier\source\repos\what's time it's is\what's time it's is\obj\Debug\net6.0-windows\what_s_time_it_s_is.Form1.resources
+C:\Users\argenis javier\source\repos\what's time it's is\what's time it's is\obj\Debug\net6.0-windows\what's time it's is.csproj.GenerateResource.cache
+C:\Users\argenis javier\source\repos\what's time it's is\what's time it's is\obj\Debug\net6.0-windows\what's time it's is.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argenis javier\source\repos\what's time it's is\what's time it's is\obj\Debug\net6.0-windows\what's time it's is.AssemblyInfoInputs.cache
+C:\Users\argenis javier\source\repos\what's time it's is\what's time it's is\obj\Debug\net6.0-windows\what's time it's is.AssemblyInfo.cs
+C:\Users\argenis javier\source\repos\what's time it's is\what's time it's is\obj\Debug\net6.0-windows\what's time it's is.csproj.CoreCompileInputs.cache
+C:\Users\argenis javier\source\repos\what's time it's is\what's time it's is\obj\Debug\net6.0-windows\what's time it's is.sourcelink.json
+C:\Users\argenis javier\source\repos\what's time it's is\what's time it's is\obj\Debug\net6.0-windows\what's time it's is.dll
+C:\Users\argenis javier\source\repos\what's time it's is\what's time it's is\obj\Debug\net6.0-windows\refint\what's time it's is.dll
+C:\Users\argenis javier\source\repos\what's time it's is\what's time it's is\obj\Debug\net6.0-windows\what's time it's is.pdb
+C:\Users\argenis javier\source\repos\what's time it's is\what's time it's is\obj\Debug\net6.0-windows\what's time it's is.genruntimeconfig.cache
+C:\Users\argenis javier\source\repos\what's time it's is\what's time it's is\obj\Debug\net6.0-windows\ref\what's time it's is.dll
